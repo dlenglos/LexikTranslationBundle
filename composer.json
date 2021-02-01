@@ -18,7 +18,7 @@
     ],
     "require": {
         "php": "^7.3",
-        "symfony/symfony": "*",
+        "symfony/symfony": "4.4.*",
         "ext-mongodb": "*"
     },
     "require-dev": {
